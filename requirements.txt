@@ -1,0 +1,9 @@
+SpeechRecognition
+pyttsx3~=2.90
+numpy~=1.23.5
+stanza~=1.4.2
+autocorrect~=2.6.1
+tensorflow~=2.11.0
+mysql-connector-python~=8.0.31
+PyAudio
+environs
